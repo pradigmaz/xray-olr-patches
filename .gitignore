@@ -1,0 +1,18 @@
+# Distribution packages and game assets are published exclusively as GitHub Releases
+binaries/
+gamedata/
+README.txt
+*.exe
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Temporary & OS files
+*.tmp
+*.bak
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store
