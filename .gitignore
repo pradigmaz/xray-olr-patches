@@ -1,6 +1,7 @@
 # Distribution packages and game assets are published exclusively as GitHub Releases
 binaries/
 gamedata/
+3.*/
 README.txt
 *.exe
 
