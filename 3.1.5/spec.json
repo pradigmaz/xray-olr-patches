@@ -1,5 +1,5 @@
 {
-  "root": "N:\\scripts\\stalker\\XRAY-OLR-DEV-SOURCE",
+  "root": "N:\\\\scripts\\\\stalker\\\\XRAY-OLR-DEV-SOURCE",
   "files": [
     "binaries/DXT.dll",
     "binaries/ETools.dll",
@@ -183,16 +183,13 @@
     "gamedata/textures/act/act_controller_red_bump.dds",
     "gamedata/textures/act/act_corpus_face.dds",
     "gamedata/textures/act/act_dogs_big.dds",
-    "gamedata/textures/act/act_dogs_big.psd",
     "gamedata/textures/act/act_dogs_big_bump.dds",
     "gamedata/textures/act/act_dogs_brown_bump.dds",
     "gamedata/textures/act/act_dogs_bulterer.dds",
-    "gamedata/textures/act/act_dogs_bulterer.psd",
     "gamedata/textures/act/act_dogs_bulterer_bump.dds",
     "gamedata/textures/act/act_ekologt_bump.dds",
     "gamedata/textures/act/act_exoskeleton_bump.dds",
     "gamedata/textures/act/act_golmar_suit.dds",
-    "gamedata/textures/act/act_golmar_suit.psd",
     "gamedata/textures/act/act_gray_nauch_glass.dds",
     "gamedata/textures/act/act_gray_nauch_glass.thm",
     "gamedata/textures/act/act_green_nauch_glass.dds",
@@ -352,7 +349,7 @@
     "gamedata/textures/wpn/wpn_shotgra_bump.dds"
   ],
   "version": "3.1.5.2",
-  "revision": 1,
+  "revision": 2,
   "target_game_version": "3.1.5",
   "channel": "stable",
   "download_url": "https://github.com/pradigmaz/xray-olr-patches/releases/download/v3.1.5.2/olr_hotfix_cumulative.7z",
@@ -759,7 +756,7 @@
     "binaries/xrGame.dll": "ca373574ba7ac73f4f1c8278ce1139ec235c155420a57c9bd71cac16ea69e66d",
     "binaries/xrRender_R1.dll": "ea5d4061f67c3f7bf77cde2c960b07b9f1152adb8ebce8806f950b2dafe31a38",
     "binaries/xrRender_R2.dll": "fbbcdaeb2d174f49581ae9ece8f63523b3944d01cb2d4f6bc147557bfaf3652d",
-    "binaries/xrSound.dll": "d73a740d81af2c30a78de9e8b39a9d2517feac169197fba8df357f6e773e16a6",
+    "binaries/xrSound.dll": "dab669137137b7283c75011a7e8fbae21440cd328e4f9e660b203efb6078909a",
     "binaries/xrParticles.dll": "4b3dd87b0f3e7d5372d7314c574f2b0979de0ef3030b19da87cf9f4ffdb28544",
     "binaries/xrNetServer.dll": "7281f01a6b77e9851a007f0d6dffcd1bbfa4b9ae1f865c3142187c91bd6704d6",
     "binaries/xrXMLParser.dll": "52d98f283ab4a1981a8d3ee54bbb57289562039a5d0bad19a87a72724777d7cb",
@@ -771,6 +768,6 @@
     "binaries/DXT.dll": "e71b06d3cf5e2c3e691ddda1d6a9c752d11d6cf74d7e02b4ed5a38bf386e6961",
     "binaries/xrCompress.exe": "4ef7a6112b69d862167b16fe97acfb6076ba1c5caa84b3c57b3008fe4464fd60"
   },
-  "description": "Кумулятивный хотфикс 2 (3.1.5.2) для Oblivion Lost Remake 3.1.5 (19.10.2026).\n\nПакет включает все исправления Хотфикса 1 и свежие обновления:\n\nКвесты и персонажи:\n- Кольбат переименован в Кобальта и возвращен в группировку «Чистое Небо».\n- Для текущих сохранений: чтобы сменить группировку Кобальта на дружественную («Чистое Небо»), поговорите с медиком в Баре о диагностике организма и ответьте «Обойдусь, пожалуй».\n- Фобос и группа ученых теперь корректно удаляются, если их квест не был выполнен до закрытия бункера на Янтаре.\n- Исключено ошибочное появление сообщений от Гацулы при пешем переходе на Росток, если ранее был выбран вариант с телепортом.\n- Исправлено обновление и сброс уникальных имен сталкеров.\n\nСнаряжение, визуалы и интерфейс:\n- Исправлена анимация и положение ружья Protecta на худе.\n- Добавлена смена текстур рук при заболеваниях Мессера.\n- Визуал худа рук больше не сбивается при переходе между локациями.\n- Обновлены линзы на шлемах комбинезона «СЕВА» и других защитных костюмах.\n- Исправлено описание защитного комбинезона Голмара.\n- Обновлены иконки экипировки и меток заданий.\n\nЗвук и исправления:\n- Включены недостающие звуки мутанта Корпус.\n- Восстановлены потерянные фоновые звуковые дорожки в Баре и на Генераторах.\n- Добавлена аварийная выгрузка текстур из памяти для защиты от вылетов (Out of Memory) при длительной игре.\n- Текстовые правки в диалогах и заметках.",
+  "description": "Кумулятивный хотфикс 2 (3.1.5.2) для Oblivion Lost Remake 3.1.5 (19.10.2026).\n\nКвесты и персонажи:\n- Кольбат переименован в Кобальта и возвращен в группировку «Чистое Небо».\n- Для текущих сохранений: чтобы сменить группировку Кобальта на дружественную («Чистое Небо»), поговорите с медиком в Баре о диагностике организма и ответьте «Обойдусь, пожалуй».\n- Фобос и группа ученых теперь корректно удаляются, если их квест не был выполнен до закрытия бункера на Янтаре.\n- Исключено ошибочное появление сообщений от Гацулы при пешем переходе на Росток, если ранее был выбран вариант с телепортом.\n- Исправлено обновление и сброс уникальных имен сталкеров.\n\nСнаряжение, визуалы и интерфейс:\n- Исправлена анимация и положение ружья Protecta на худе.\n- Добавлена смена текстур рук при заболеваниях Мессера.\n- Визуал худа рук больше не сбивается при переходе между локациями.\n- Обновлены линзы на шлемах комбинезона «СЕВА» и других защитных костюмах.\n- Исправлено описание защитного комбинезона Голмара.\n- Обновлены иконки экипировки и меток заданий.\n\nЗвук и исправления:\n- Включены недостающие звуки мутанта Корпус.\n- Восстановлены потерянные фоновые звуковые дорожки в Баре и на Генераторах.\n- Добавлена аварийная выгрузка текстур из памяти для защиты от вылетов (Out of Memory) при длительной игре.\n- Текстовые правки в диалогах и заметках.",
   "announcement": "Хотфикс 2 (3.1.5.2): фикс Протекты, линзы костюмов, визуал рук при болезнях, квесты Кобальта и Фобоса, звуки Корпуса, правки имен и текстов."
 }
